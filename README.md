@@ -6,7 +6,7 @@
 npm install vue-hy-address-picker --save
 
 # import in main.js
-import address from 'vue-ad-address-picker' \n
+import address from 'vue-ad-address-picker'   
 Vue.use(address) 
 
 # 在模块中引用，该标签放置位置如下
