@@ -11,7 +11,7 @@ Vue.use(address)
 
 # 在模块中引用，该标签放置位置如下
 ``` 
-<hyPickAddress @hypickaddress="mypick($event)" :city="send" ref="hypickaddress"></hyPickAddress>   
+    <hyPickAddress @hypickaddress="mypick($event)" :city="send" ref="hypickaddress"></hyPickAddress>   
   </div>    
 </template>  
 
