@@ -13,10 +13,10 @@ Vue.use(address)
 
 ``` <hyPickAddress @hypickaddress="mypick($event)" :city="send" ref="hypickaddress"></hyPickAddress>   
   </div>    
-</template>   
+</template>   ```
 
 
- data () {  
+ ```data () {  
   return {  
           send: '',  
       }  
